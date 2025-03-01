@@ -4,7 +4,7 @@
 
 > I decided to, once a week, upload an interesting audio file that can be used as a ringtone.
 
-Latest ringtone (download link): [latest.mp3](https://github.com/MPCode2020/ringtones.github.io/raw/refs/heads/master/latest.mp3)
+Latest ringtone (download link): [latest.mp3](https://github.com/MPCode2020/ringtones/raw/refs/heads/master/latest.mp3)
 
 ### Goal
 I'm trying to prove to myself that I can commit to doing something long-term, and carry out the commitment to the best of my ability. 
