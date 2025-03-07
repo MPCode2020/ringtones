@@ -26,3 +26,6 @@ In my experience, a ringtone is **a short, sometimes personalized audio file pla
 I'm quite into music and sometimes come across a portion of a song that's quite interesting in one way or another, and end up thinking something on the lines of, 
 _damn, that'd make a good ringtone..._ The process for making one of these is quite simple. 
 I take the mp3 for the song and trim it, or, if there's vocals that don't exactly play well as part of a ringtone, I separate them with any ol' online vocal remover. 
+
+### Copyright Notice
+All the music used is copyrighted by their respective owners. Due to the fact that I am using said music in a _transformative_ way, I am not infringing their copyright. 
